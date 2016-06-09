@@ -1,0 +1,2 @@
+cd /home
+cd ../dos
