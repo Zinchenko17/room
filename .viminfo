@@ -21,13 +21,47 @@
 # Registers:
 
 # File marks:
-'0  1  9  ~/Gooooool3
-'1  1  8  ~/gooooool2
-'2  1  8  ~/gooool
-'3  1  65  ~/READMY.md
-'4  1  237  ~/README.md
+'0  2  0  ~/foooools
+'1  1  9  ~/Gooooool3
+'2  1  8  ~/gooooool2
+'3  1  8  ~/gooool
+'4  1  65  ~/READMY.md
+'5  1  237  ~/README.md
 
 # Jumplist (newest first):
+-'  2  0  ~/foooools
+-'  1  0  ~/foooools
+-'  1  9  ~/Gooooool3
+-'  1  8  ~/gooooool2
+-'  1  8  ~/gooool
+-'  1  65  ~/READMY.md
+-'  1  237  ~/README.md
+-'  1  237  ~/README.md
+-'  1  65  ~/READMY.md
+-'  1  237  ~/README.md
+-'  1  237  ~/README.md
+-'  1  8  ~/gooool
+-'  1  65  ~/READMY.md
+-'  1  237  ~/README.md
+-'  1  237  ~/README.md
+-'  1  65  ~/READMY.md
+-'  1  237  ~/README.md
+-'  1  237  ~/README.md
+-'  1  8  ~/gooooool2
+-'  1  8  ~/gooool
+-'  1  65  ~/READMY.md
+-'  1  237  ~/README.md
+-'  1  237  ~/README.md
+-'  1  65  ~/READMY.md
+-'  1  237  ~/README.md
+-'  1  237  ~/README.md
+-'  1  8  ~/gooool
+-'  1  65  ~/READMY.md
+-'  1  237  ~/README.md
+-'  1  237  ~/README.md
+-'  1  65  ~/READMY.md
+-'  1  237  ~/README.md
+-'  1  237  ~/README.md
 -'  1  9  ~/Gooooool3
 -'  1  8  ~/gooooool2
 -'  1  8  ~/gooool
@@ -61,6 +95,12 @@
 -'  1  237  ~/README.md
 
 # History of marks within files (newest to oldest):
+
+> ~/foooools
+	"	2	0
+	^	2	0
+	.	1	9
+	+	1	9
 
 > ~/Gooooool3
 	"	1	9
