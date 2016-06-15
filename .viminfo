@@ -8,6 +8,8 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
+:q
+:w
 :wq
 
 # Search String History (newest to oldest):
@@ -21,80 +23,126 @@
 # Registers:
 
 # File marks:
-'0  2  0  ~/foooools
-'1  1  9  ~/Gooooool3
-'2  1  8  ~/gooooool2
-'3  1  8  ~/gooool
-'4  1  65  ~/READMY.md
-'5  1  237  ~/README.md
+'0  1  0  ~/readme.md
+'1  1  22  ~/README.md
+'2  2  0  ~/foooools
+'3  1  9  ~/Gooooool3
+'4  1  8  ~/gooooool2
+'5  1  8  ~/gooool
+'6  1  65  ~/READMY.md
 
 # Jumplist (newest first):
+-'  1  0  ~/readme.md
+-'  1  22  ~/README.md
 -'  2  0  ~/foooools
 -'  1  0  ~/foooools
 -'  1  9  ~/Gooooool3
 -'  1  8  ~/gooooool2
 -'  1  8  ~/gooool
 -'  1  65  ~/READMY.md
--'  1  237  ~/README.md
--'  1  237  ~/README.md
 -'  1  65  ~/READMY.md
--'  1  237  ~/README.md
--'  1  237  ~/README.md
 -'  1  8  ~/gooool
 -'  1  65  ~/READMY.md
--'  1  237  ~/README.md
--'  1  237  ~/README.md
 -'  1  65  ~/READMY.md
--'  1  237  ~/README.md
--'  1  237  ~/README.md
 -'  1  8  ~/gooooool2
 -'  1  8  ~/gooool
 -'  1  65  ~/READMY.md
--'  1  237  ~/README.md
--'  1  237  ~/README.md
 -'  1  65  ~/READMY.md
--'  1  237  ~/README.md
--'  1  237  ~/README.md
 -'  1  8  ~/gooool
 -'  1  65  ~/READMY.md
--'  1  237  ~/README.md
--'  1  237  ~/README.md
 -'  1  65  ~/READMY.md
--'  1  237  ~/README.md
--'  1  237  ~/README.md
 -'  1  9  ~/Gooooool3
 -'  1  8  ~/gooooool2
 -'  1  8  ~/gooool
 -'  1  65  ~/READMY.md
--'  1  237  ~/README.md
--'  1  237  ~/README.md
 -'  1  65  ~/READMY.md
--'  1  237  ~/README.md
--'  1  237  ~/README.md
 -'  1  8  ~/gooool
 -'  1  65  ~/READMY.md
--'  1  237  ~/README.md
--'  1  237  ~/README.md
 -'  1  65  ~/READMY.md
--'  1  237  ~/README.md
--'  1  237  ~/README.md
 -'  1  8  ~/gooooool2
 -'  1  8  ~/gooool
 -'  1  65  ~/READMY.md
--'  1  237  ~/README.md
--'  1  237  ~/README.md
 -'  1  65  ~/READMY.md
--'  1  237  ~/README.md
--'  1  237  ~/README.md
 -'  1  8  ~/gooool
 -'  1  65  ~/READMY.md
--'  1  237  ~/README.md
--'  1  237  ~/README.md
 -'  1  65  ~/READMY.md
--'  1  237  ~/README.md
--'  1  237  ~/README.md
+-'  2  0  ~/foooools
+-'  1  0  ~/foooools
+-'  1  9  ~/Gooooool3
+-'  1  8  ~/gooooool2
+-'  1  8  ~/gooool
+-'  1  65  ~/READMY.md
+-'  1  65  ~/READMY.md
+-'  1  8  ~/gooool
+-'  1  65  ~/READMY.md
+-'  1  65  ~/READMY.md
+-'  1  8  ~/gooooool2
+-'  1  8  ~/gooool
+-'  1  65  ~/READMY.md
+-'  1  65  ~/READMY.md
+-'  1  8  ~/gooool
+-'  1  65  ~/READMY.md
+-'  1  65  ~/READMY.md
+-'  1  22  ~/README.md
+-'  2  0  ~/foooools
+-'  1  0  ~/foooools
+-'  1  9  ~/Gooooool3
+-'  1  8  ~/gooooool2
+-'  1  8  ~/gooool
+-'  1  65  ~/READMY.md
+-'  1  65  ~/READMY.md
+-'  1  8  ~/gooool
+-'  1  65  ~/READMY.md
+-'  1  65  ~/READMY.md
+-'  1  8  ~/gooooool2
+-'  1  8  ~/gooool
+-'  1  65  ~/READMY.md
+-'  1  65  ~/READMY.md
+-'  1  8  ~/gooool
+-'  1  65  ~/READMY.md
+-'  1  65  ~/READMY.md
+-'  1  9  ~/Gooooool3
+-'  1  8  ~/gooooool2
+-'  1  8  ~/gooool
+-'  1  65  ~/READMY.md
+-'  1  65  ~/READMY.md
+-'  1  8  ~/gooool
+-'  1  65  ~/READMY.md
+-'  1  65  ~/READMY.md
+-'  1  8  ~/gooooool2
+-'  1  8  ~/gooool
+-'  1  65  ~/READMY.md
+-'  1  65  ~/READMY.md
+-'  1  8  ~/gooool
+-'  1  65  ~/READMY.md
+-'  1  65  ~/READMY.md
+-'  2  0  ~/foooools
+-'  1  0  ~/foooools
+-'  1  9  ~/Gooooool3
+-'  1  8  ~/gooooool2
+-'  1  8  ~/gooool
+-'  1  65  ~/READMY.md
+-'  1  65  ~/READMY.md
+-'  1  8  ~/gooool
+-'  1  65  ~/READMY.md
+-'  1  65  ~/READMY.md
+-'  1  8  ~/gooooool2
+-'  1  8  ~/gooool
 
 # History of marks within files (newest to oldest):
+
+> ~/readme.md
+	"	1	0
+	^	1	29
+	.	1	28
+	+	1	28
+
+> ~/README.md
+	"	1	22
+	^	1	23
+	.	1	22
+	+	1	237
+	+	1	22
 
 > ~/foooools
 	"	2	0
@@ -125,9 +173,3 @@
 	^	1	66
 	.	1	65
 	+	1	65
-
-> ~/README.md
-	"	1	237
-	^	1	238
-	.	1	237
-	+	1	237
